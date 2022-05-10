@@ -46,7 +46,7 @@
 <p align="left"></p>
 
 <h3 align="left">Mobile App Development: </h3>
-<p align="left"></p>
+<p align="left"><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559500-250fa0a9-ee29-4b3b-bc52-aa3827b0395b.png" alt="android" width="50" height="50"/> </a></p>
 
 <h3 align="left">Database Management Systems: </h3>
 <p align="left"></p>
