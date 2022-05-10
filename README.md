@@ -52,7 +52,7 @@
 <p align="left"><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559574-1ec858a8-cc17-4d55-afa3-c0ab3df2e7ce.png" alt="oracle" width="50" height="50"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559592-41326f12-615c-4d3f-9438-8e447cf08854.png" alt="postgresql" width="50" height="50"/> </a></p>
 
 <h3 align="left">General Development Tools: </h3>
-<p align="left"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559566-fec9fd3e-4f83-405d-a38d-a4e08628d81e.png" alt="linux" width="50" height="50"/> </a></p>
+<p align="left"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559566-fec9fd3e-4f83-405d-a38d-a4e08628d81e.png" alt="linux" width="50" height="50"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a></p>
 
 <h3 align="left">Miscellaneous Softwares: </h3>
 <p align="left"></p>
