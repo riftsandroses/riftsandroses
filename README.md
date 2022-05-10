@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Java & Android**
 
-- 📫 How to reach me **utkarsh.cpp@gmail.com**
+- 📫 Reach out to me at **utkarsh.cpp@gmail.com**
 
 - 📄 Know about my experiences on [My Resume](https://drive.google.com/file/d/1gTH34uEIXv7OgL6HtpAdDb2RSOG7rlyZ/view?usp=sharing)
 
