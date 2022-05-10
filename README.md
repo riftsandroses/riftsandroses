@@ -52,7 +52,7 @@
 <p align="left"></p>
 
 <h3 align="left">General Development Tools: </h3>
-<p align="left"></p>
+<p align="left"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559566-fec9fd3e-4f83-405d-a38d-a4e08628d81e.png" alt="linux" width="50" height="50"/> </a></p>
 
 <h3 align="left">Miscellaneous Softwares: </h3>
 <p align="left"></p>
