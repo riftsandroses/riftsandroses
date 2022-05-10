@@ -40,7 +40,7 @@
 </p>
 
 <h3 align="left">Programming Languages: </h3>
-<p align="left"></p>
+<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559559-310d10f7-7962-4548-8a74-b6f279427060.png" alt="java" width="50" height="50"/> </a></p>
 
 <h3 align="left">Front-end Development: </h3>
 <p align="left"></p>
