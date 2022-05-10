@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact **I am allergic to Aubergine Seeds**
 
-### Blogs posts
+### My Blogs posts:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
