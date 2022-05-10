@@ -55,7 +55,7 @@
 <p align="left"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559566-fec9fd3e-4f83-405d-a38d-a4e08628d81e.png" alt="linux" width="50" height="50"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a></p>
 
 <h3 align="left">Miscellaneous Softwares: </h3>
-<p align="left"></p>
+<p align="left"><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559583-42e37e6c-7f64-4658-ab34-3e6a2096c3e5.png" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559608-f5e9eef1-79e5-417a-8c0a-76030b37dc09.png" alt="xd" width="50" height="50"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=riftsandroses&show_icons=true&theme=dark&locale=en&layout=compact" alt="riftsandroses" /></p>
 
