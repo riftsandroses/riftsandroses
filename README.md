@@ -43,7 +43,7 @@
 <p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559559-310d10f7-7962-4548-8a74-b6f279427060.png" alt="java" width="50" height="50"/> </a></p>
 
 <h3 align="left">Front-end Development: </h3>
-<p align="left"></p>
+<p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167563109-9a7c0fab-4d65-4bf5-b0e6-9d392f5078be.png" alt="html5" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559523-b21c92ca-a397-4680-a10f-f35f05618563.png" alt="css3" width="50" height="50"/> </a></p>
 
 <h3 align="left">Mobile App Development: </h3>
 <p align="left"><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559500-250fa0a9-ee29-4b3b-bc52-aa3827b0395b.png" alt="android" width="50" height="50"/> </a></p>
