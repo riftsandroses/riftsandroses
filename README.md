@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with [FAR-m](https://github.com/riftsandroses/FAR-m)
 
-- 👨‍💻 All of my projects are available at [https://github.com/riftsandroses](https://github.com/riftsandroses)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/riftsandroses)
 
-- 📝 I regularly write articles on [https://medium.com/@riftsandroses](https://medium.com/@riftsandroses)
+- 📝 I regularly write articles on [Medium](https://medium.com/@riftsandroses)
 
 - 💬 Ask me about **Java & Android**
 
 - 📫 How to reach me **utkarsh.cpp@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gTH34uEIXv7OgL6HtpAdDb2RSOG7rlyZ/view?usp=sharing](https://drive.google.com/file/d/1gTH34uEIXv7OgL6HtpAdDb2RSOG7rlyZ/view?usp=sharing)
+- 📄 Know about my experiences on [My Resume](https://drive.google.com/file/d/1gTH34uEIXv7OgL6HtpAdDb2RSOG7rlyZ/view?usp=sharing)
 
 - ⚡ Fun fact **I am allergic to Aubergine Seeds**
 
