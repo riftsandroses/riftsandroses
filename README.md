@@ -10,21 +10,19 @@
 
 - 🔭 I’m currently working on [IoT Lab KiiT ToolKit (ilk-toolkit)](https://github.com/riftsandroses/ilk-toolkit)
 
-- 🌱 I’m currently learning **Kotlin, Dart & Flutter**
+- 🌱 I’m currently learning **Data Structures & Lagorithms in Python**
 
-- 👯 I’m looking to collaborate on [Resto-visor](https://github.com/riftsandroses/Resto-visor)
+- 👯 I’m looking to collaborate on [Talons](https://github.com/riftsandroses/Talons)
 
-- 🤝 I’m looking for help with [FAR-m](https://github.com/riftsandroses/FAR-m)
+- 🤝 I’m looking for help with [Resto-visor](https://github.com/riftsandroses/Resto-visor)
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/riftsandroses)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@riftsandroses)
-
-- 💬 Ask me about **Java & Android**
+- 💬 Ask me about **Java & Cyber-Security**
 
 - 📫 Reach out to me at **utkarsh.cpp@gmail.com**
 
-- 📄 Know about my experiences on [My Resume](https://drive.google.com/file/d/1gTH34uEIXv7OgL6HtpAdDb2RSOG7rlyZ/view?usp=sharing)
+- 📄 Know about my experiences on [My Resume](https://drive.google.com/file/d/1an8DQmOb-mXaQEod1UcTPXn9NHWQV-Wj/view?usp=sharing)
 
 - ⚡ Fun fact **I am allergic to Aubergine Seeds**
 
@@ -45,9 +43,6 @@
 
 <h3 align="left">Front-end Development: </h3>
 <p align="left"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167563109-9a7c0fab-4d65-4bf5-b0e6-9d392f5078be.png" alt="html5" width="50" height="50"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559523-b21c92ca-a397-4680-a10f-f35f05618563.png" alt="css3" width="50" height="50"/> </a></p>
-
-<h3 align="left">Mobile App Development: </h3>
-<p align="left"><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559500-250fa0a9-ee29-4b3b-bc52-aa3827b0395b.png" alt="android" width="50" height="50"/> </a></p>
 
 <h3 align="left">Database Management Systems: </h3>
 <p align="left"><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559574-1ec858a8-cc17-4d55-afa3-c0ab3df2e7ce.png" alt="oracle" width="50" height="50"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/63180210/167559592-41326f12-615c-4d3f-9438-8e447cf08854.png" alt="postgresql" width="50" height="50"/> </a></p>
