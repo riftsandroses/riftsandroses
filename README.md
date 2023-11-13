@@ -12,10 +12,6 @@
 
 - 🌱 I’m currently learning **Data Structures & Lagorithms in Python**
 
-- 👯 I’m looking to collaborate on [Talons](https://github.com/riftsandroses/Talons)
-
-- 🤝 I’m looking for help with [Resto-visor](https://github.com/riftsandroses/Resto-visor)
-
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/riftsandroses)
 
 - 💬 Ask me about **Java & Cyber-Security**
@@ -24,7 +20,6 @@
 
 - 📄 Know about my experiences on [My Resume](https://drive.google.com/file/d/1an8DQmOb-mXaQEod1UcTPXn9NHWQV-Wj/view?usp=sharing)
 
-- ⚡ Fun fact **I am allergic to Aubergine Seeds**
 
 ### My Blogs posts:
 <!-- BLOG-POST-LIST:START -->
